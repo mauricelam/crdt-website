@@ -28,6 +28,10 @@ permalink: /resources
 
 ## Blog posts
 
+* [Zixuan Chen](https://github.com/zxch3n): 
+  [Introduction to Loro's Rich Text CRDT](https://loro.dev/blog/loro-richtext)
+  (January 2024)
+
 * [Jake Lazaroff](https://jakelazaroff.com):
   [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   (October 2023)
