@@ -92,6 +92,8 @@ collaborative applications and replicated storage systems:
 
 * [sql_crdt](https://github.com/cachapa/sql_crdt) Dart implementation of Conflict-free Replicated Data Types (CRDTs) using SQL databases (currently Sqlite and Postgres).
 
+* [Loro](https://loro.dev) is a CRDTs library based on [Replayable Event Graph](https://loro.dev/docs/advanced/replayable_event_graph), supporting rich text, list, map, and movable tree. It's implemented in Rust with bindings to JavaScript.
+
 ## Byzantine fault tolerant CRDT libraries
 
 * [Hyper Hyper Space](https://www.hyperhyperspace.org/) ([GitHub](https://github.com/hyperhyperspace/hyperhyperspace-core/), [Demo](https://hyperhyper.space)) A secure append-only distributed data layer, using Merkle-ized operational CRDTs for mutability.
