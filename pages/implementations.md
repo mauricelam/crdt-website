@@ -176,6 +176,10 @@ Several distributed databases also have built-in support for CRDTs:
   Local-first SQL system based on AntidoteDB and
   [Rich-CRDTs](https://electric-sql.com/blog/2022/05/03/introducing-rich-crdts).
 
+
+* [HarperDB](https://harperdb.io)
+  uses CRDTs to reconcile transactions across its globally-distributed application platform.
+  
 ## Distributed file systems
 
 * [Elmerfs](https://github.com/scality/elmerfs): A distributed file system, with a FUSE interface, written in Rust.  It uses CRDTs to avoid structural conflicts.  Built above [AntidoteDB](https://www.antidotedb.eu/).
